@@ -1,0 +1,1 @@
+- [Temporary Signed URLs in Laravel for Secure Password Resets](https://fajarwz.com/blog/temporary-signed-urls-in-laravel-for-secure-password-resets) by [Fajar Windhu Zulfikar](https://fajarwz.com/)
