@@ -1,1 +1,5 @@
-- [Temporary Signed URLs in Laravel for Secure Password Resets](https://fajarwz.com/blog/temporary-signed-urls-in-laravel-for-secure-password-resets) by [Fajar Windhu Zulfikar](https://fajarwz.com/)
+| Package | Description | Requirements |
+| ------- | ----------- | ------------ |
+| https://github.com/omaralalwi/Gpdf | Open Source Package for converting HTML to PDF in PHP & Laravel applications. Extends `dompdf` to add new features and solve issues like Arabic language support. | `PHP ^8.1`, `DOM extension`, `MBString extension`, `php-font-lib`, `php-svg-lib` |
+| https://github.com/tomloprod/time-warden | A lightweight framework-agnostic PHP library that allows you to monitor the processing time of tasks, set estimated execution times for tasks, and enabling reactive actions when tasks exceed their estimated duration. | `PHP ^8.2` |
+| https://github.com/spatie/laravel-backup | A package that creates a backup of your application. The backup is a zip file that contains all files in the directories you specify along with a dump of your database. The backup can be stored on any of the filesystems you have configured in Laravel. | `PHP ^8.0`, `Laravel ^8.0` |
